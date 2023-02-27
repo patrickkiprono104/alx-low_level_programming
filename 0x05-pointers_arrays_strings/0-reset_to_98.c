@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void reset_to_98(int *n);
+void reset_to_98(int *n)
 
 /**
  * reset_to_98 - function definition
@@ -15,7 +15,7 @@ void reset_to_98(int *n);
  * Return: void
  */
 
-void reset_to_98(int *n);
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
